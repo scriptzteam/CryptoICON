@@ -11,4 +11,6 @@ https://cryptoicon.wtflab.pw/crypto.php?coin=[CRYPTOCOIN]&size=[SIZE]
 
 Direct BITCOIN icon link sample:
 https://cryptoicon.wtflab.pw/crypto.php?coin=bitcoin&size=16x16
+https://cryptoicon.wtflab.pw/crypto.php?coin=bitcoin&size=32x32
+https://cryptoicon.wtflab.pw/crypto.php?coin=bitcoin&size=128x128
 ```
