@@ -14,3 +14,13 @@ https://cryptoicon.wtflab.pw/crypto.php?coin=bitcoin&size=16x16
 https://cryptoicon.wtflab.pw/crypto.php?coin=bitcoin&size=32x32
 https://cryptoicon.wtflab.pw/crypto.php?coin=bitcoin&size=128x128
 ```
+
+```
+History:
+
+30.Jan.2018 Coins Added -> coinfi
+                        -> equal
+                        -> halalchain
+                        -> nework
+                        -> ruff
+```
